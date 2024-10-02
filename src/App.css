@@ -1,0 +1,39 @@
+*{
+
+}
+
+img{
+    max-width: 100%;
+}
+
+body{
+    font-family: sans-serif;
+    
+}
+
+/* card */
+
+.card{
+    max-width: 400px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+.card-img{
+
+    
+}
+
+.card-content{
+    padding: 20px;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+}
